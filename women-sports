@@ -1,0 +1,362 @@
+<link rel="stylesheet" href="//static.zalora.com/css/onsite.css">
+
+<style>
+    #BannersTop.hpBannersTop{display:block!important}
+    .b-mainBanner,#Brands.hpBrands,#Topsellers.hpTopsellers{display:none!important}
+    body{background:#fff!important}
+    #cms-link-spec-inc > div.cms-container > a:hover {text-decoration: none!important;}
+    .cms-sp-primary-neg-mtop {
+        margin-top: -125px;
+    }
+    .cms-sp-primary-mleft {
+        margin-left: 30px;
+    }
+
+    .cms-sp-secondary-mleft {
+        margin-left: 290px;
+    }
+
+    .cms-sp-banner-copy {
+        position: absolute;
+        z-index: 2;
+        width: 270px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-right: 15px;
+        background: #fff;
+        line-height: 1.5; 
+    }
+    .cms-section-heading {
+        text-transform: none;
+        font-size: 28px;
+        padding-bottom: 0px;
+        border-bottom: 0px;
+    }
+
+    .cms-sp-sm-img {
+        width: 360px;
+        height: 420px;
+        overflow: hidden
+    }
+
+    .cms-sp-sm-cat-img {
+        width: 296px;
+        height: 195px;
+        overflow: hidden
+    }
+
+    .cms-sp-lg-cat-img {
+        width: 374px;
+        height: 500px;
+        overflow: hidden
+    }
+
+    .cms-sp-lg-img {
+        width: 620px;
+        height: 420px;
+        overflow: hidden
+    }
+    .cms-video-text {
+        position: absolute;
+        margin-top: -400px;
+        color: white;
+        margin-left: 170px;
+        text-transform: uppercase;
+        font-size: 20px;
+        letter-spacing: 3px;
+    }
+    .cms-video-text2 {
+        font-size: 14px;
+        margin-top: 40px;
+        margin-left: -50px;
+        position: absolute;
+    }
+    .cms-sis-cat-name {
+        display: inline-block;
+        background: #FFF;
+        color: #000;
+        line-height: 1.6em;
+        font-family: Apercu, Arial, sans-serif;
+        font-size: 14px;
+        padding: 6px 20px;
+        text-transform: uppercase;
+        letter-spacing: 1px
+    }
+    .cms-sis-cat-lg {
+        width: 235px;
+        height: 478px;
+    }
+    .cms-sis-cat-sm {
+        width: 235px;
+        height: 230px;
+    }
+    .cms-sis-cat-lg:hover, .cms-sis-cat-sm:hover, .cms-banner-bg:hover {
+        cursor: pointer;
+        opacity: .8;
+    }
+    .cms-sis-cat-lg:hover .cms-sis-cat-name, .cms-sis-cat-sm:hover .cms-sis-cat-name {
+        background: #000;
+        color: #FFF
+    }
+    .cms-sis-cat-lg-pos {
+        padding-top: 427px
+    }
+    .cms-sis-cat-sm-pos {
+        padding-top: 179px
+    }
+    .cms-sis-cat-sm-spacer {
+        width: 100%;
+        height: 16px
+    }
+    .btn-all {
+    transition: background-color .5s,color 1.2s;
+    color: white;
+    background-color: black;
+    border: 1px solid;
+    border-color: black;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 12px;
+    font-size: 16px;
+    line-height: 10px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    letter-spacing: 1px;
+    width: 100%;
+    height: 40px;
+}
+
+.btn-all:hover {
+        background-color: transparent;
+        color: black;
+        border-color: black;
+}
+
+
+</style>
+<div id="cms-csaTrackingContainer">
+<div class="cms-full">
+
+    <a href="/women/sports/all-products/">
+        <span style="z-index:1;width:100%;top:0;left:0;">
+                    <iframe width="996" id="myVideo" height="560" src="https://www.youtube.com/embed/ZDCIRwyl0gM?feature=player_embedded&autoplay=1&controls=0&modestbranding=1&rel=0&showinfo=0&autohide=1&color=white&theme=light&iv_load_policy=3&mute=1" frameborder="0" allowfullscreen=""></iframe>
+                    <span class="cms-hover-content cms-animate" style="height:561px;top:0">
+                        <span>
+                            <div class="cms-hover-cta">
+                                Shop Now >
+                            </div>
+                        </span>
+                    </span>
+                </span>
+    </a>
+</div>
+
+<div class="cms-row">
+    <div class="cms-full mtxl txtCenter">
+        <div class="cms-section-heading">Musim Baru</div>
+    </div>
+    <div class="cms-full mtl mbxl">     
+        <a class="lfloat txtCenter cms-banner-cta-combo cms-animate" href="/women/nike-indonesia/">
+            <div class="cms-sp-lg-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/sis/620x420_NIKE_WOMEN_static_20180119.jpg" width="620" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-primary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        NIKE
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Inspirasi dan inovasi untuk atlet di seluruh dunia.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+
+        <a class="rfloat txtCenter cms-banner-cta-combo cms-animate" href="/adidas-shop/">
+            <div class="cms-sp-sm-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/sis/360x420_ADIDAS_WOMEN_static_20180119.jpg" width="360" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-primary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        ADIDAS
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Temukan koleksi terbaru dari adidas disini!
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!-- Add spacers to fix negative margins -->
+<div class="cms-row">
+    <div class="cms-full mtxxl">
+        <div class="cms-spacer-15"></div>
+    </div>
+</div>
+
+<div class="cms-row">
+    <div class="cms-full mbxxl">
+        <a class="lfloat txtCenter cms-banner-cta-combo cms-animate" href="/women/sports/puma/">
+            <div class="cms-sp-sm-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/sis/360x420_PUMA_WOMEN_static_20180119.jpg" width="360" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-primary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        PUMA
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Lebih cepat dan makin kuat.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+
+        <a class="rfloat txtCenter cms-banner-cta-combo cms-animate" href="/women/under-armour/">
+            <div class="cms-sp-lg-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/sis/620x420_UNDERARMOUR_WOMEN_static_20180119.jpg" width="620" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-secondary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        UNDER ARMOUR
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Inovasi dan style untuk performa terbaik.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="cms-row">
+    <div class="cms-full mtxxl mbxl txtCenter">
+        <div class="cms-section-heading">Lihat Kategori</div>
+    </div>
+    <div class="cms-full">
+        <div class="lfloat">
+            <a href="/women/sports/running/semua-produk/">  
+                <div class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/sis/237x480_women_running_static_20180119.jpg">
+                    <div class="cms-sis-cat-lg-pos">
+                        <div class="cms-sis-cat-name">Running</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="lfloat cms-spacer-grid">
+            <a href="/women/sports/training/semua-produk/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/sis/237x232_women_training_static_20180119.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Training</div>
+                    </div>
+                </div>
+            </a>
+            <div class="cms-sis-cat-sm-spacer"></div>
+            <a href="/women/sports/yoga/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/sis/237x232_women_yoga_static_20180119.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Yoga</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="lfloat cms-spacer-grid">
+            <a href="/women/sports/sports-lifestyle/">  
+                <div class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/sis/237x480_women_sportslifestyle_static_20180119.jpg">
+                    <div class="cms-sis-cat-lg-pos">
+                        <div class="cms-sis-cat-name">Sports Lifestyle</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="lfloat cms-spacer-grid">
+            <a href="/women/sports/swim-beachwear/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/sis/237x232_women_swimsurf_static_20180119.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Swim & Surf</div>
+                    </div>
+                </div>
+            </a>
+            <div class="cms-sis-cat-sm-spacer"></div>
+            <a href="/women/sports/perlengkapan-olahraga/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/sis/237x232_women_accessories_static_20180119.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Aksesoris</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="cms-row">
+        <div class="cms-full" style="padding-top: 10px; padding-bottom: 30px;">
+      <span>
+                <a href="/women/sports/all-products" class="btn-all">Shop All ></a>
+            </span>
+      
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function () {
+
+        var csaLabel = 'shopWomenSports';
+
+        $('#cms-csaTrackingContainer a').each(function () {
+            var urlParam1 = '?csa=' + csaLabel;
+            var urlParam2 = '&csa=' + csaLabel;
+
+            var theHref = $(this).attr("href");
+            if (theHref.indexOf("?") > -1) {
+                $(this).attr("href", theHref + urlParam2);
+            } else {
+                $(this).attr("href", theHref + urlParam1);
+            }
+        });
+    });
+
+var myVideo =  iframe.getElementById('myVideo'); 
+myVideo.mute();
+
+</script>
+
+
+    <h2>Produk Sports Wanita</h2>
+<p><strong>Sports wanita</strong> bukan merupakan kebutuhan yang asing lagi bagi para wanita. Para perempuan yang memiliki karir, sering kali meluangkan waktunya untuk berolahraga di sela waktu senggang. Sehingga <strong>sports wanita</strong> bisa menjadi salah satu kebutuhan utama yang bisa melengkapi aktifitas olahraga mereka. Ada banyak sekali varian <strong>sports wanita</strong> yang bisa kita dapatkan. Kita akan bahas lebih lengkap dibawah ini.</p>
+
+<h2>Keperluan Sports Wanita</h2>
+<p>Sekarang ini <strong>sports wanita</strong> pun bisa bermacam-macam, mulai dari running, tennis dan badminton, fitness, boxing, berenang, dan masih banyak lagi.  Berdasarkan jenis <strong>sports wanita</strong> yang dipilih, maka pilihan kebutuhan sports pun akhirnya bervariasi bukan? Jenis sepatu yang Anda butuhkan untuk berlari pasti berbeda dengan kebutuhan basket. Pilihan sepatunya pun akan berbeda. Selain itu, jika Anda ingin fitness pun, Anda juga harus membeli baju khusus fitness. Jaket pun menjadi salah satu kebutuhan dari <strong>sports wanita</strong> yang bisa menemani wanita di saat mereka akan melakukan jogging.</p>
+
+<h2>Dapatkan Produk Sports Wanita Terbaru</h2>
+<p>Bagi Anda yang saat ini sedang membutuhkan beberapa keperluan <strong>produk sports wanita</strong>, maka saat ini, ada satu pilihan tepat yang bisa Anda  tuju, yakni ZALORA Indonesia. Disini, berbagai penawaran menarik untuk pembelian <strong>sports item</strong> disediakan bagi Anda semua yang memang mementingkan kualitas sebagai tujuan utama. Jadi, kunjungi ZALORA Indonesia untuk mendapatkan kualitas fashion item terbaikmu.</p>
+</div>
+
+
+<!-- We will soon be having this so just pls keep this code
+<div class="cms-row">
+    <div class="cms-full mtxxl">
+        <a href="#">
+            <img src="[MEDIA_BASE_URL]/cms/sis/sports_200716_40.jpg" alt="" />
+        </a>
+    </div>
+</div>
+-->
