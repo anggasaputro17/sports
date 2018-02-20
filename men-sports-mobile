@@ -1,0 +1,114 @@
+<style>
+    .cms-pl-mtop-lg {
+        margin-top: 50px;
+    }
+
+    .cms-pl-mtop-md {
+        margin-top: 25px;
+    }
+
+    .cms-res-font-lg {
+        font-size: 1.2em;
+        line-height: 1.5em;
+        padding: 10px;
+    }
+
+    .cms-res-font-sm {
+        font-size: 1em;
+        line-height: 1.5em;
+    }
+
+    .cms-discover-cta {
+        background: #fff;
+        padding: 18px 0;
+        width: 70%;
+        margin: 0 auto;
+        color: #000;
+        font-size: 0.8em;
+        display: inline-block;
+        text-align: center;
+        text-transform: uppercase;
+        border: 1px solid #000;
+        letter-spacing: 1px;
+    }
+</style>
+
+<!-- Hero -->
+<div class="full align-center">
+    <a href="/men/adidas/?csa=shopMenSports">
+        <img src="[MEDIA_BASE_URL]/cms/SIS/360x420_men_adidas.jpg" width="100%" class="">
+    </a>
+</div>
+
+<!-- NCU1 -->
+<div class="full cms-pl-mtop-lg align-center">
+    <a href="/men/nike/?csa=shopMenSports">
+        <img src="[MEDIA_BASE_URL]/cms/SIS/620x420_men_nike.jpg" width="80%" class="">
+        <div class="breathing-room cms-res-font-lg">
+            <strong>
+                NIKE
+                <br>
+                Innovation for every athlete in the world.
+            </strong>
+        </div>
+    </a>
+</div>
+
+<!-- NCU2 -->
+<div class="full cms-pl-mtop-md align-center">
+    <a href="/men/under-armour/?csa=shopMenSports">
+        <img src="[MEDIA_BASE_URL]/cms/SIS/620x420_men_underarmour.jpg" width="80%">
+        <div class="breathing-room cms-res-font-lg">
+            <strong>
+                UNDER ARMOUR
+                <br>
+                Ignite your strength and be forever faster.
+            </strong>
+        </div>
+    </a>
+</div>
+
+<div class="full">
+    <!-- C1 -->
+    <div class="half cms-pl-mtop-md align-center">
+        <a href="/men/sports/sports-running/?csa=shopMenSports">
+            <img src="[MEDIA_BASE_URL]/cms/SIS/Cat_300x400.jpg" width="99%" class="">
+        </a>
+    </div>
+
+    <!-- C2 -->
+    <div class="half cms-pl-mtop-md align-center">
+        <a href="/men/sports/training/?csa=shopMenSports">
+            <img src="[MEDIA_BASE_URL]/cms/SIS/Cat_300x400-1.jpg" width="99%" class="">
+        </a>
+    </div>
+</div>
+
+<!-- B1-B4 -->
+<div class="full cms-pl-mtop-md align-center">
+    <a href="/men/nike/?csa=shopMenSports">
+        <img src="[MEDIA_BASE_URL]/cms/SIS/Brand1.gif" width="50%" class="">
+    </a> 
+
+    <a href="/men/adidas/?csa=shopMenSports">
+        <img src="https://static-id.zacdn.com/cms/evergage/adidas_local_logo_28oct.png" width="50%" class="">
+    </a>
+
+    <a href="/men/puma/?csa=shopMenSports">
+        <img src="[MEDIA_BASE_URL]/cms/SIS/Brand2.gif" width="50%" class="">
+    </a>
+
+    <a href="/men/new-balance/?csa=shopMenSports">
+        <img src="[MEDIA_BASE_URL]/cms/SIS/BRAND3.gif" width="50%" class="">
+    </a>  
+</div>
+
+
+<div id="dy-rec-sports-mobile-men" class="mbl"> </div>
+<!-- Discover More Brands CTAs -->
+<div class="cms-full mtm cms-brand-placeholders">
+    <div class="cms-full txtCenter">
+        <div class="cms-spacer-15"></div>
+            <a href="/men/sports/all-products/?csa=shopMenSports"><button class="btn btn--medium btn--fluid" style="margin-bottom:55px;">SHOP ALL > </button></a>
+    </div>
+</div>
