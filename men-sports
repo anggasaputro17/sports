@@ -1,0 +1,371 @@
+<link rel="stylesheet" href="//static.zalora.com/css/onsite.css">
+
+<style>
+    #BannersTop.hpBannersTop{display:block!important}
+    .b-mainBanner,#Brands.hpBrands,#Topsellers.hpTopsellers{display:none!important}
+    body{background:#fff!important}
+    #cms-link-spec-inc > div.cms-container > a:hover {text-decoration: none!important;}
+    .cms-sp-primary-neg-mtop {
+        margin-top: -125px;
+    }
+    .cms-sp-primary-mleft {
+        margin-left: 30px;
+    }
+
+    .cms-sp-secondary-mleft {
+        margin-left: 290px;
+    }
+
+    .cms-sp-banner-copy {
+        position: absolute;
+        z-index: 2;
+        width: 270px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-right: 15px;
+        background: #fff;
+        line-height: 1.5; 
+    }
+    .cms-section-heading {
+        text-transform: none;
+        font-size: 28px;
+        padding-bottom: 0px;
+        border-bottom: 0px;
+    }
+
+    .cms-sp-sm-img {
+        width: 360px;
+        height: 420px;
+        overflow: hidden
+    }
+
+    .cms-sp-sm-cat-img {
+        width: 296px;
+        height: 195px;
+        overflow: hidden
+    }
+
+    .cms-sp-lg-cat-img {
+        width: 374px;
+        height: 500px;
+        overflow: hidden
+    }
+
+    .cms-sp-lg-img {
+        width: 620px;
+        height: 420px;
+        overflow: hidden
+    }
+    .cms-sis-cat-name {
+        display: inline-block;
+        background: #FFF;
+        color: #000;
+        line-height: 1.6em;
+        font-family: Apercu, Arial, sans-serif;
+        font-size: 14px;
+        padding: 6px 20px;
+        text-transform: uppercase;
+        letter-spacing: 1px
+    }
+    .cms-sis-cat-lg {
+        width: 235px;
+        height: 478px;
+    }
+    .cms-sis-cat-sm {
+        width: 235px;
+        height: 230px;
+    }
+    .cms-sis-cat-lg:hover, .cms-sis-cat-sm:hover, .cms-banner-bg:hover {
+        cursor: pointer;
+        opacity: .8;
+    }
+    .cms-sis-cat-lg:hover .cms-sis-cat-name, .cms-sis-cat-sm:hover .cms-sis-cat-name {
+        background: #000;
+        color: #FFF
+    }
+    .cms-sis-cat-lg-pos {
+        padding-top: 427px
+    }
+    .cms-sis-cat-sm-pos {
+        padding-top: 179px
+    }
+    .cms-sis-cat-sm-spacer {
+        width: 100%;
+        height: 16px
+    }
+    .btn-all {
+    transition: background-color .5s,color 1.2s;
+    color: white;
+    background-color: black;
+    border: 1px solid;
+    border-color: black;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 12px;
+    font-size: 16px;
+    line-height: 10px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    letter-spacing: 1px;
+    width: 100%;
+    height: 40px;
+}
+
+.btn-all:hover {
+        background-color: transparent;
+        color: black;
+        border-color: black;
+}
+
+
+</style>
+<div id="cms-csaTrackingContainer">
+<div class="cms-full">
+
+    <a href="/all-products/?q=pureboost&sort=latest%20arrival">
+        <div id="muteYouTubeVideoPlayer"></div>
+ 
+<script async src="https://www.youtube.com/iframe_api"></script>
+<script>
+ function onYouTubeIframeAPIReady() {
+  var player;
+  player = new YT.Player('muteYouTubeVideoPlayer', {
+    videoId: 'F1o9M50vzRk', // YouTube Video ID
+    width: 996,               // Player width (in px)
+    height: 560,              // Player height (in px)
+    playerVars: {
+      autoplay: 1,        // Auto-play the video on load
+      controls: 0,        // Show pause/play buttons in player
+      showinfo: 0,        // Hide the video title
+      modestbranding: 1,  // Hide the Youtube Logo
+      loop: 1,            // Run the video in a loop
+      fs: 0,              // Hide the full screen button
+      cc_load_policy: 0, // Hide closed captions
+      iv_load_policy: 3,  // Hide the Video Annotations
+      autohide: 0,         // Hide video controls when playing
+      rel: 0,
+      playlist: 'F1o9M50vzRk',
+    },
+    events: {
+      onReady: function(e) {
+        e.target.mute();
+      }
+    }
+  });
+ }
+</script>
+        <span class="cms-hover-content cms-animate" style="height:561px;top:0">
+            <span>
+                <div class="cms-hover-cta">
+                    Shop Now >
+                </div></span></span>
+    </a>
+</div>
+
+<div class="cms-row">
+    <div class="cms-full mtxl txtCenter">
+        <div class="cms-section-heading">Musim Baru</div>
+    </div>
+    <div class="cms-full mtl mbxl">     
+        <a class="lfloat txtCenter cms-banner-cta-combo cms-animate" href="/men/nike-indonesia/">
+            <div class="cms-sp-lg-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/SIS/620x420_men_nike.jpg" width="620" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-primary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        NIKE
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Inspirasi dan inovasi untuk atlet di seluruh dunia.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+
+
+        <a class="rfloat txtCenter cms-banner-cta-combo cms-animate" href="/adidas-shop/">
+            <div class="cms-sp-sm-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/SIS/360x420_men_adidas.jpg" width="360" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-primary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        ADIDAS
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Temukan koleksi terbaru dari adidas disini!
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!-- Add spacers to fix negative margins -->
+<div class="cms-row">
+    <div class="cms-full mtxxl">
+        <div class="cms-spacer-15"></div>
+    </div>
+</div>
+
+<div class="cms-row">
+    <div class="cms-full mbxxl">
+        <a class="lfloat txtCenter cms-banner-cta-combo cms-animate" href="/men/sports/puma/">
+            <div class="cms-sp-sm-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/SIS/360x420_men_puma.jpg" width="360" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-primary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        PUMA
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Lebih cepat dan makin kuat.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+
+        <a class="rfloat txtCenter cms-banner-cta-combo cms-animate" href="/men/under-armour/">
+            <div class="cms-sp-lg-img cms-top-brands">
+                <img src="[MEDIA_BASE_URL]/cms/SIS/620x420_men_underarmour.jpg" width="620" height="420" class="cms-animate">
+            </div>
+            <div class="cms-sp-primary-neg-mtop cms-sp-secondary-mleft">
+                <div class="cms-sp-banner-copy">
+                    <div class="cms-hp-b13-headline txtUpper txtLeft">
+                        UNDER ARMOUR
+                    </div>
+                    <p class="txtLeft">
+                        <span>
+                            Bawa batasmu ke tingkat lebih tinggi.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="cms-row">
+    <div class="cms-full mtxxl mbxl txtCenter">
+        <div class="cms-section-heading">Lihat Kategori</div>
+    </div>
+    <div class="cms-full">
+        <div class="lfloat">
+            <a href="/men/sports/sports-running/">  
+                <div class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/SIS/237x480_men_running.jpg">
+                    <div class="cms-sis-cat-lg-pos">
+                        <div class="cms-sis-cat-name">Running</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="lfloat cms-spacer-grid">
+            <a href="/men/sports/training/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/SIS/237x232_men_training.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Training</div>
+                    </div>
+                </div>
+            </a>
+            <div class="cms-sis-cat-sm-spacer"></div>
+            <a href="/men/sports/sports-outdoors/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/SIS/237x232_men_outdoor.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Outdoor</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="lfloat cms-spacer-grid">
+            <a href="/men/sports/sports-lifestyle/">  
+                <div class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/SIS/237x480_men_sportslifestyle.jpg">
+                    <div class="cms-sis-cat-lg-pos">
+                        <div class="cms-sis-cat-name">Sports Lifestyle</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="lfloat cms-spacer-grid">
+            <a href="/men/sports/swim-beachwear/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/SIS/237x232_men_swimsurf.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Swim & Surf</div>
+                    </div>
+                </div>
+            </a>
+            <div class="cms-sis-cat-sm-spacer"></div>
+            <a href="/men/sports/sepak-bola/"> 
+                <div class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="[MEDIA_BASE_URL]/cms/SIS/237x232_men_football.jpg">
+                    <div class="cms-sis-cat-sm-pos">
+                        <div class="cms-sis-cat-name">Football</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+    <div class="cms-row">
+        <div class="cms-full" style="padding-top: 10px; padding-bottom: 30px;">
+      <span>
+                <a href="/men/sports/all-products/" class="btn-all">Shop All ></a>
+            </span>
+      
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function () {
+
+        var csaLabel = 'shopMenSports';
+
+        $('#cms-csaTrackingContainer a').each(function () {
+            var urlParam1 = '?csa=' + csaLabel;
+            var urlParam2 = '&csa=' + csaLabel;
+
+            var theHref = $(this).attr("href");
+            if (theHref.indexOf("?") > -1) {
+                $(this).attr("href", theHref + urlParam2);
+            } else {
+                $(this).attr("href", theHref + urlParam1);
+            }
+        });
+    });
+
+</script>
+
+
+<h2>Produk Sports Pria</h2>
+<p>Semua pria pasti senang sekali melakukan olahraga untuk menyehatkan badan. Jadi, banyak sekali kebutuhan <strong>sports pria</strong> yang akan dibutuhkan, mulai dari sepatu, baju. Kaos kaki, celana olahraga, dan masih banyak lagi.  Kebutuhan <strong>sports pria</strong> ini pun disediakan oleh berbagai brand lokal maupun internasional. Namun, baik lokal maupun internasional, yang terpenting adalah pemilihan dari bahan yang baik. Jika kita memilih bahan <strong>sports pria</strong> yang baik, maka kita akan mendapatkan kenyamanan dalam berolahraga.</p>
+
+<h2>Jenis Kebutuhan Sports pria</h2>
+<p>Kebutuhan sports pria pria sangat beragam bergantung dari jenis olahraga yang dipilih oleh pria. Jenis kebutuhan itu sendiri dikategorikan ke dalam beberapa jenis olahraga. Yang paling favorit adalah football, jogging atau running, tenis dan badminton, basket, dan fitness.  Kebutuhan <strong>sports pria</strong> sangat beragam, mulai dari sepatu, jaket, hingga celana olahraga. Semua kebutuhan tersebut seharusnya dipilih dengan bahan yang berkualitas untuk kenyamanan dalam berolahraga.  Ada banyak brand yang bisa kita kenali, namun, FILA dan ADIDAS menjadi beberapa produk yang sangat diminati.</p>
+
+<h2>Beli Kebutuhan Sports-mu</h2>
+<p>Karena waktu yang cukup terbatas, maka tak jarang sebagian dari kita mempercayakan proses belanja di one stop shopping online seperti <strong>ZALORA Indonesia</strong>. Di sini Anda bisa mendapatkan produk <strong>sports pria</strong> dengan harga yang terjangkau dan dengan pilihan yang bervariasi mulai dari brand lokal hingga internasional. Hanya <strong>ZALORA Indonesia</strong>, yang bisa mengerti kebutuhan Anda.</p>
+
+<!-- We will soon be having this so just pls keep this code
+<div class="cms-row">
+    <div class="cms-full mtxxl">
+        <a href="">
+            <img src="[MEDIA_BASE_URL]/cms/SIS/sports_200716_40.jpg" alt="" />
+        </a>
+    </div>
+</div>
+-->
